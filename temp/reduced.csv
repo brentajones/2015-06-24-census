@@ -1,0 +1,1198 @@
+STNAME,CTYNAME,YEAR,AGEGRP,TOT_POP,NHWA_MALE,NHWA_FEMALE
+Missouri,Franklin County,1,0,101492,48265,49199
+Missouri,Franklin County,1,1,6524,3087,2935
+Missouri,Franklin County,1,2,6921,3370,3148
+Missouri,Franklin County,1,3,7246,3571,3293
+Missouri,Franklin County,1,4,7066,3448,3240
+Missouri,Franklin County,1,5,5781,2764,2718
+Missouri,Franklin County,1,6,6130,2949,2912
+Missouri,Franklin County,1,7,5698,2786,2692
+Missouri,Franklin County,1,8,6147,2933,2981
+Missouri,Franklin County,1,9,7011,3344,3425
+Missouri,Franklin County,1,10,8400,4083,4044
+Missouri,Franklin County,1,11,8253,4003,4022
+Missouri,Franklin County,1,12,6649,3245,3235
+Missouri,Franklin County,1,13,5666,2687,2847
+Missouri,Franklin County,1,14,4404,2074,2222
+Missouri,Franklin County,1,15,3385,1498,1806
+Missouri,Franklin County,1,16,2634,1189,1394
+Missouri,Franklin County,1,17,1871,708,1131
+Missouri,Franklin County,1,18,1706,526,1154
+Missouri,Franklin County,2,0,101491,48265,49198
+Missouri,Franklin County,2,1,6524,3087,2935
+Missouri,Franklin County,2,2,6921,3370,3148
+Missouri,Franklin County,2,3,7246,3571,3293
+Missouri,Franklin County,2,4,7066,3448,3240
+Missouri,Franklin County,2,5,5781,2764,2718
+Missouri,Franklin County,2,6,6130,2949,2912
+Missouri,Franklin County,2,7,5698,2786,2692
+Missouri,Franklin County,2,8,6147,2933,2981
+Missouri,Franklin County,2,9,7011,3344,3425
+Missouri,Franklin County,2,10,8400,4083,4044
+Missouri,Franklin County,2,11,8253,4003,4022
+Missouri,Franklin County,2,12,6650,3246,3235
+Missouri,Franklin County,2,13,5666,2687,2847
+Missouri,Franklin County,2,14,4402,2073,2221
+Missouri,Franklin County,2,15,3385,1498,1806
+Missouri,Franklin County,2,16,2634,1189,1394
+Missouri,Franklin County,2,17,1871,708,1131
+Missouri,Franklin County,2,18,1706,526,1154
+Missouri,Franklin County,3,0,101537,48266,49235
+Missouri,Franklin County,3,1,6534,3099,2939
+Missouri,Franklin County,3,2,6897,3349,3135
+Missouri,Franklin County,3,3,7209,3556,3274
+Missouri,Franklin County,3,4,6988,3400,3204
+Missouri,Franklin County,3,5,5827,2790,2739
+Missouri,Franklin County,3,6,6117,2937,2909
+Missouri,Franklin County,3,7,5758,2806,2731
+Missouri,Franklin County,3,8,6075,2906,2944
+Missouri,Franklin County,3,9,6972,3326,3402
+Missouri,Franklin County,3,10,8332,4040,4016
+Missouri,Franklin County,3,11,8288,4033,4028
+Missouri,Franklin County,3,12,6740,3278,3292
+Missouri,Franklin County,3,13,5720,2709,2878
+Missouri,Franklin County,3,14,4428,2088,2232
+Missouri,Franklin County,3,15,3414,1514,1818
+Missouri,Franklin County,3,16,2645,1190,1403
+Missouri,Franklin County,3,17,1887,719,1137
+Missouri,Franklin County,3,18,1706,526,1154
+Missouri,Franklin County,4,0,101648,48245,49222
+Missouri,Franklin County,4,1,6499,3114,2883
+Missouri,Franklin County,4,2,6792,3254,3088
+Missouri,Franklin County,4,3,7165,3510,3270
+Missouri,Franklin County,4,4,6769,3329,3054
+Missouri,Franklin County,4,5,6024,2877,2837
+Missouri,Franklin County,4,6,6128,2929,2908
+Missouri,Franklin County,4,7,5942,2854,2842
+Missouri,Franklin County,4,8,5788,2782,2808
+Missouri,Franklin County,4,9,6850,3271,3329
+Missouri,Franklin County,4,10,7976,3838,3853
+Missouri,Franklin County,4,11,8489,4169,4081
+Missouri,Franklin County,4,12,7038,3382,3470
+Missouri,Franklin County,4,13,5972,2818,3021
+Missouri,Franklin County,4,14,4472,2123,2236
+Missouri,Franklin County,4,15,3474,1555,1835
+Missouri,Franklin County,4,16,2645,1167,1416
+Missouri,Franklin County,4,17,1939,752,1152
+Missouri,Franklin County,4,18,1686,521,1139
+Missouri,Franklin County,5,0,101386,48110,48906
+Missouri,Franklin County,5,1,6403,3066,2791
+Missouri,Franklin County,5,2,6701,3204,2998
+Missouri,Franklin County,5,3,7061,3423,3237
+Missouri,Franklin County,5,4,6499,3214,2922
+Missouri,Franklin County,5,5,6143,2922,2881
+Missouri,Franklin County,5,6,6045,2918,2832
+Missouri,Franklin County,5,7,6029,2891,2866
+Missouri,Franklin County,5,8,5607,2693,2710
+Missouri,Franklin County,5,9,6610,3184,3193
+Missouri,Franklin County,5,10,7660,3672,3689
+Missouri,Franklin County,5,11,8540,4188,4108
+Missouri,Franklin County,5,12,7332,3531,3604
+Missouri,Franklin County,5,13,5944,2790,3011
+Missouri,Franklin County,5,14,4785,2257,2418
+Missouri,Franklin County,5,15,3595,1642,1864
+Missouri,Franklin County,5,16,2697,1179,1452
+Missouri,Franklin County,5,17,1986,790,1155
+Missouri,Franklin County,5,18,1749,546,1175
+Missouri,Franklin County,6,0,101757,48164,49009
+Missouri,Franklin County,6,1,6376,3016,2778
+Missouri,Franklin County,6,2,6654,3182,2938
+Missouri,Franklin County,6,3,7014,3378,3206
+Missouri,Franklin County,6,4,6507,3212,2926
+Missouri,Franklin County,6,5,6246,2986,2926
+Missouri,Franklin County,6,6,6065,2895,2867
+Missouri,Franklin County,6,7,6110,2948,2884
+Missouri,Franklin County,6,8,5468,2622,2628
+Missouri,Franklin County,6,9,6450,3068,3133
+Missouri,Franklin County,6,10,7385,3540,3548
+Missouri,Franklin County,6,11,8424,4094,4065
+Missouri,Franklin County,6,12,7584,3643,3738
+Missouri,Franklin County,6,13,6123,2914,3052
+Missouri,Franklin County,6,14,4981,2336,2521
+Missouri,Franklin County,6,15,3780,1713,1966
+Missouri,Franklin County,6,16,2787,1241,1480
+Missouri,Franklin County,6,17,1994,817,1137
+Missouri,Franklin County,6,18,1809,559,1216
+Missouri,Franklin County,7,0,102084,48240,49089
+Missouri,Franklin County,7,1,6319,2984,2754
+Missouri,Franklin County,7,2,6647,3146,2937
+Missouri,Franklin County,7,3,6944,3328,3166
+Missouri,Franklin County,7,4,6372,3154,2873
+Missouri,Franklin County,7,5,6257,2946,2932
+Missouri,Franklin County,7,6,6102,2944,2839
+Missouri,Franklin County,7,7,6195,2991,2920
+Missouri,Franklin County,7,8,5460,2631,2602
+Missouri,Franklin County,7,9,6277,2976,3052
+Missouri,Franklin County,7,10,7137,3401,3436
+Missouri,Franklin County,7,11,8352,4037,4040
+Missouri,Franklin County,7,12,7838,3777,3841
+Missouri,Franklin County,7,13,6242,3001,3086
+Missouri,Franklin County,7,14,5215,2419,2657
+Missouri,Franklin County,7,15,3970,1825,2039
+Missouri,Franklin County,7,16,2847,1241,1530
+Missouri,Franklin County,7,17,2011,823,1137
+Missouri,Franklin County,7,18,1899,616,1248
+Missouri,Jefferson County,1,0,218733,103843,105052
+Missouri,Jefferson County,1,1,14971,7125,6724
+Missouri,Jefferson County,1,2,15086,7228,6773
+Missouri,Jefferson County,1,3,15450,7410,7064
+Missouri,Jefferson County,1,4,15192,7407,6882
+Missouri,Jefferson County,1,5,12457,6044,5802
+Missouri,Jefferson County,1,6,14017,6615,6744
+Missouri,Jefferson County,1,7,14384,6914,6821
+Missouri,Jefferson County,1,8,14755,6954,7083
+Missouri,Jefferson County,1,9,15414,7319,7469
+Missouri,Jefferson County,1,10,18515,8894,8998
+Missouri,Jefferson County,1,11,17497,8525,8379
+Missouri,Jefferson County,1,12,14664,7000,7263
+Missouri,Jefferson County,1,13,11937,5726,5899
+Missouri,Jefferson County,1,14,8816,4123,4475
+Missouri,Jefferson County,1,15,6011,2751,3110
+Missouri,Jefferson County,1,16,4351,1886,2357
+Missouri,Jefferson County,1,17,2879,1159,1672
+Missouri,Jefferson County,1,18,2337,763,1537
+Missouri,Jefferson County,2,0,218728,103842,105048
+Missouri,Jefferson County,2,1,14971,7125,6724
+Missouri,Jefferson County,2,2,15084,7228,6771
+Missouri,Jefferson County,2,3,15449,7410,7063
+Missouri,Jefferson County,2,4,15192,7407,6882
+Missouri,Jefferson County,2,5,12457,6044,5802
+Missouri,Jefferson County,2,6,14016,6615,6743
+Missouri,Jefferson County,2,7,14383,6913,6821
+Missouri,Jefferson County,2,8,14755,6954,7083
+Missouri,Jefferson County,2,9,15414,7319,7469
+Missouri,Jefferson County,2,10,18515,8894,8998
+Missouri,Jefferson County,2,11,17497,8525,8379
+Missouri,Jefferson County,2,12,14664,7000,7263
+Missouri,Jefferson County,2,13,11937,5726,5899
+Missouri,Jefferson County,2,14,8816,4123,4475
+Missouri,Jefferson County,2,15,6011,2751,3110
+Missouri,Jefferson County,2,16,4351,1886,2357
+Missouri,Jefferson County,2,17,2879,1159,1672
+Missouri,Jefferson County,2,18,2337,763,1537
+Missouri,Jefferson County,3,0,219083,103977,105192
+Missouri,Jefferson County,3,1,14906,7080,6698
+Missouri,Jefferson County,3,2,15099,7243,6759
+Missouri,Jefferson County,3,3,15489,7407,7099
+Missouri,Jefferson County,3,4,15013,7328,6759
+Missouri,Jefferson County,3,5,12597,6102,5884
+Missouri,Jefferson County,3,6,14048,6637,6742
+Missouri,Jefferson County,3,7,14449,6931,6869
+Missouri,Jefferson County,3,8,14617,6905,6996
+Missouri,Jefferson County,3,9,15424,7321,7476
+Missouri,Jefferson County,3,10,18374,8818,8937
+Missouri,Jefferson County,3,11,17608,8571,8450
+Missouri,Jefferson County,3,12,14802,7085,7308
+Missouri,Jefferson County,3,13,12076,5785,5968
+Missouri,Jefferson County,3,14,8868,4140,4508
+Missouri,Jefferson County,3,15,6077,2791,3140
+Missouri,Jefferson County,3,16,4364,1887,2364
+Missouri,Jefferson County,3,17,2921,1180,1689
+Missouri,Jefferson County,3,18,2351,766,1546
+Missouri,Jefferson County,4,0,219644,104068,105411
+Missouri,Jefferson County,4,1,14608,6975,6527
+Missouri,Jefferson County,4,2,15099,7238,6719
+Missouri,Jefferson County,4,3,15437,7298,7157
+Missouri,Jefferson County,4,4,14377,7028,6417
+Missouri,Jefferson County,4,5,12967,6213,6102
+Missouri,Jefferson County,4,6,13880,6593,6565
+Missouri,Jefferson County,4,7,14668,6969,7043
+Missouri,Jefferson County,4,8,14080,6697,6661
+Missouri,Jefferson County,4,9,15495,7338,7512
+Missouri,Jefferson County,4,10,17535,8369,8535
+Missouri,Jefferson County,4,11,18122,8810,8728
+Missouri,Jefferson County,4,12,15203,7314,7447
+Missouri,Jefferson County,4,13,12682,6047,6300
+Missouri,Jefferson County,4,14,9131,4246,4647
+Missouri,Jefferson County,4,15,6427,2965,3313
+Missouri,Jefferson County,4,16,4448,1923,2400
+Missouri,Jefferson County,4,17,3030,1237,1733
+Missouri,Jefferson County,4,18,2455,808,1605
+Missouri,Jefferson County,5,0,220102,103896,105669
+Missouri,Jefferson County,5,1,14233,6724,6361
+Missouri,Jefferson County,5,2,15069,7210,6681
+Missouri,Jefferson County,5,3,15375,7274,7072
+Missouri,Jefferson County,5,4,14006,6769,6293
+Missouri,Jefferson County,5,5,13253,6342,6227
+Missouri,Jefferson County,5,6,13596,6443,6423
+Missouri,Jefferson County,5,7,14821,6992,7111
+Missouri,Jefferson County,5,8,13896,6634,6547
+Missouri,Jefferson County,5,9,15382,7261,7454
+Missouri,Jefferson County,5,10,16685,7959,8090
+Missouri,Jefferson County,5,11,18289,8866,8829
+Missouri,Jefferson County,5,12,15746,7552,7715
+Missouri,Jefferson County,5,13,12653,5990,6321
+Missouri,Jefferson County,5,14,9934,4626,5039
+Missouri,Jefferson County,5,15,6914,3132,3625
+Missouri,Jefferson County,5,16,4593,2020,2430
+Missouri,Jefferson County,5,17,3105,1255,1791
+Missouri,Jefferson County,5,18,2552,847,1660
+Missouri,Jefferson County,6,0,221245,104185,106055
+Missouri,Jefferson County,6,1,14076,6631,6240
+Missouri,Jefferson County,6,2,15227,7203,6759
+Missouri,Jefferson County,6,3,15232,7226,6943
+Missouri,Jefferson County,6,4,13848,6663,6229
+Missouri,Jefferson County,6,5,13316,6347,6216
+Missouri,Jefferson County,6,6,13512,6395,6374
+Missouri,Jefferson County,6,7,15011,7107,7150
+Missouri,Jefferson County,6,8,14046,6687,6637
+Missouri,Jefferson County,6,9,15158,7156,7298
+Missouri,Jefferson County,6,10,15973,7544,7799
+Missouri,Jefferson County,6,11,18369,8903,8829
+Missouri,Jefferson County,6,12,16213,7731,7979
+Missouri,Jefferson County,6,13,13018,6185,6470
+Missouri,Jefferson County,6,14,10235,4762,5198
+Missouri,Jefferson County,6,15,7446,3382,3897
+Missouri,Jefferson County,6,16,4718,2080,2497
+Missouri,Jefferson County,6,17,3173,1289,1805
+Missouri,Jefferson County,6,18,2674,894,1735
+Missouri,Jefferson County,7,0,222716,104630,106543
+Missouri,Jefferson County,7,1,13926,6550,6161
+Missouri,Jefferson County,7,2,15184,7129,6740
+Missouri,Jefferson County,7,3,15170,7163,6861
+Missouri,Jefferson County,7,4,13846,6629,6246
+Missouri,Jefferson County,7,5,13161,6231,6110
+Missouri,Jefferson County,7,6,13662,6473,6418
+Missouri,Jefferson County,7,7,15019,7048,7167
+Missouri,Jefferson County,7,8,14444,6908,6768
+Missouri,Jefferson County,7,9,14790,6954,7110
+Missouri,Jefferson County,7,10,15373,7253,7481
+Missouri,Jefferson County,7,11,18226,8793,8799
+Missouri,Jefferson County,7,12,16714,8053,8083
+Missouri,Jefferson County,7,13,13527,6372,6763
+Missouri,Jefferson County,7,14,10844,5058,5497
+Missouri,Jefferson County,7,15,7811,3543,4086
+Missouri,Jefferson County,7,16,4993,2193,2658
+Missouri,Jefferson County,7,17,3226,1327,1804
+Missouri,Jefferson County,7,18,2800,953,1791
+Missouri,Lincoln County,1,0,52566,24589,24805
+Missouri,Lincoln County,1,1,4054,1932,1746
+Missouri,Lincoln County,1,2,4021,1877,1769
+Missouri,Lincoln County,1,3,4153,1927,1889
+Missouri,Lincoln County,1,4,3894,1822,1727
+Missouri,Lincoln County,1,5,2885,1316,1365
+Missouri,Lincoln County,1,6,3361,1521,1635
+Missouri,Lincoln County,1,7,3559,1653,1702
+Missouri,Lincoln County,1,8,3330,1546,1578
+Missouri,Lincoln County,1,9,3640,1755,1703
+Missouri,Lincoln County,1,10,4308,2054,2082
+Missouri,Lincoln County,1,11,3997,1954,1880
+Missouri,Lincoln County,1,12,3171,1527,1510
+Missouri,Lincoln County,1,13,2478,1163,1243
+Missouri,Lincoln County,1,14,1981,942,955
+Missouri,Lincoln County,1,15,1372,649,684
+Missouri,Lincoln County,1,16,1050,458,555
+Missouri,Lincoln County,1,17,704,305,381
+Missouri,Lincoln County,1,18,608,188,401
+Missouri,Lincoln County,2,0,52565,24588,24805
+Missouri,Lincoln County,2,1,4054,1932,1746
+Missouri,Lincoln County,2,2,4021,1877,1769
+Missouri,Lincoln County,2,3,4153,1927,1889
+Missouri,Lincoln County,2,4,3894,1822,1727
+Missouri,Lincoln County,2,5,2885,1316,1365
+Missouri,Lincoln County,2,6,3361,1521,1635
+Missouri,Lincoln County,2,7,3559,1653,1702
+Missouri,Lincoln County,2,8,3330,1546,1578
+Missouri,Lincoln County,2,9,3640,1755,1703
+Missouri,Lincoln County,2,10,4308,2054,2082
+Missouri,Lincoln County,2,11,3996,1953,1880
+Missouri,Lincoln County,2,12,3171,1527,1510
+Missouri,Lincoln County,2,13,2478,1163,1243
+Missouri,Lincoln County,2,14,1981,942,955
+Missouri,Lincoln County,2,15,1372,649,684
+Missouri,Lincoln County,2,16,1050,458,555
+Missouri,Lincoln County,2,17,704,305,381
+Missouri,Lincoln County,2,18,608,188,401
+Missouri,Lincoln County,3,0,52708,24649,24861
+Missouri,Lincoln County,3,1,4039,1917,1744
+Missouri,Lincoln County,3,2,4029,1885,1769
+Missouri,Lincoln County,3,3,4136,1922,1872
+Missouri,Lincoln County,3,4,3884,1824,1724
+Missouri,Lincoln County,3,5,2917,1333,1373
+Missouri,Lincoln County,3,6,3371,1514,1647
+Missouri,Lincoln County,3,7,3575,1665,1706
+Missouri,Lincoln County,3,8,3312,1544,1563
+Missouri,Lincoln County,3,9,3650,1747,1716
+Missouri,Lincoln County,3,10,4290,2047,2067
+Missouri,Lincoln County,3,11,4016,1961,1895
+Missouri,Lincoln County,3,12,3232,1562,1533
+Missouri,Lincoln County,3,13,2509,1171,1264
+Missouri,Lincoln County,3,14,1984,943,956
+Missouri,Lincoln County,3,15,1393,656,695
+Missouri,Lincoln County,3,16,1053,463,553
+Missouri,Lincoln County,3,17,707,308,380
+Missouri,Lincoln County,3,18,611,187,404
+Missouri,Lincoln County,4,0,53107,24886,24990
+Missouri,Lincoln County,4,1,3891,1861,1684
+Missouri,Lincoln County,4,2,4072,1938,1754
+Missouri,Lincoln County,4,3,4170,1932,1876
+Missouri,Lincoln County,4,4,3813,1810,1680
+Missouri,Lincoln County,4,5,2989,1340,1434
+Missouri,Lincoln County,4,6,3314,1452,1633
+Missouri,Lincoln County,4,7,3671,1743,1734
+Missouri,Lincoln County,4,8,3193,1490,1491
+Missouri,Lincoln County,4,9,3681,1741,1759
+Missouri,Lincoln County,4,10,4149,1966,2004
+Missouri,Lincoln County,4,11,4137,2014,1956
+Missouri,Lincoln County,4,12,3449,1687,1611
+Missouri,Lincoln County,4,13,2663,1256,1323
+Missouri,Lincoln County,4,14,1997,938,974
+Missouri,Lincoln County,4,15,1473,709,718
+Missouri,Lincoln County,4,16,1079,486,558
+Missouri,Lincoln County,4,17,746,324,397
+Missouri,Lincoln County,4,18,620,199,404
+Missouri,Lincoln County,5,0,53348,25007,24981
+Missouri,Lincoln County,5,1,3776,1814,1621
+Missouri,Lincoln County,5,2,4055,1937,1695
+Missouri,Lincoln County,5,3,4135,1937,1825
+Missouri,Lincoln County,5,4,3734,1750,1663
+Missouri,Lincoln County,5,5,3116,1414,1460
+Missouri,Lincoln County,5,6,3299,1423,1642
+Missouri,Lincoln County,5,7,3698,1761,1735
+Missouri,Lincoln County,5,8,3251,1536,1503
+Missouri,Lincoln County,5,9,3567,1674,1695
+Missouri,Lincoln County,5,10,3965,1862,1911
+Missouri,Lincoln County,5,11,4193,2053,1993
+Missouri,Lincoln County,5,12,3655,1759,1723
+Missouri,Lincoln County,5,13,2721,1306,1328
+Missouri,Lincoln County,5,14,2138,982,1073
+Missouri,Lincoln County,5,15,1565,762,751
+Missouri,Lincoln County,5,16,1076,493,547
+Missouri,Lincoln County,5,17,769,331,412
+Missouri,Lincoln County,5,18,635,213,404
+Missouri,Lincoln County,6,0,53878,25152,25234
+Missouri,Lincoln County,6,1,3721,1774,1588
+Missouri,Lincoln County,6,2,4076,1936,1737
+Missouri,Lincoln County,6,3,4087,1901,1800
+Missouri,Lincoln County,6,4,3754,1744,1678
+Missouri,Lincoln County,6,5,3221,1464,1494
+Missouri,Lincoln County,6,6,3328,1453,1616
+Missouri,Lincoln County,6,7,3670,1715,1748
+Missouri,Lincoln County,6,8,3315,1537,1552
+Missouri,Lincoln County,6,9,3523,1659,1661
+Missouri,Lincoln County,6,10,3857,1821,1834
+Missouri,Lincoln County,6,11,4203,2049,2017
+Missouri,Lincoln County,6,12,3794,1823,1787
+Missouri,Lincoln County,6,13,2862,1346,1414
+Missouri,Lincoln County,6,14,2190,1027,1088
+Missouri,Lincoln County,6,15,1699,822,811
+Missouri,Lincoln County,6,16,1092,508,546
+Missouri,Lincoln County,6,17,813,334,450
+Missouri,Lincoln County,6,18,673,239,413
+Missouri,Lincoln County,7,0,54249,25379,25312
+Missouri,Lincoln County,7,1,3662,1752,1563
+Missouri,Lincoln County,7,2,4029,1918,1718
+Missouri,Lincoln County,7,3,4132,1936,1783
+Missouri,Lincoln County,7,4,3761,1744,1693
+Missouri,Lincoln County,7,5,3262,1539,1461
+Missouri,Lincoln County,7,6,3344,1457,1613
+Missouri,Lincoln County,7,7,3590,1660,1721
+Missouri,Lincoln County,7,8,3457,1592,1642
+Missouri,Lincoln County,7,9,3400,1607,1584
+Missouri,Lincoln County,7,10,3756,1794,1758
+Missouri,Lincoln County,7,11,4250,2047,2052
+Missouri,Lincoln County,7,12,3849,1845,1825
+Missouri,Lincoln County,7,13,3023,1435,1461
+Missouri,Lincoln County,7,14,2279,1062,1148
+Missouri,Lincoln County,7,15,1770,858,831
+Missouri,Lincoln County,7,16,1150,531,582
+Missouri,Lincoln County,7,17,853,353,464
+Missouri,Lincoln County,7,18,682,249,413
+Missouri,St. Charles County,1,0,360485,157536,163939
+Missouri,St. Charles County,1,1,24297,10244,9792
+Missouri,St. Charles County,1,2,26202,11170,10875
+Missouri,St. Charles County,1,3,26625,11676,11276
+Missouri,St. Charles County,1,4,25276,11224,10564
+Missouri,St. Charles County,1,5,21443,9460,9164
+Missouri,St. Charles County,1,6,23579,10264,10405
+Missouri,St. Charles County,1,7,23906,10223,10448
+Missouri,St. Charles County,1,8,24764,10574,10995
+Missouri,St. Charles County,1,9,25879,11451,11776
+Missouri,St. Charles County,1,10,29446,13282,13840
+Missouri,St. Charles County,1,11,27805,12842,13034
+Missouri,St. Charles County,1,12,22490,10090,10900
+Missouri,St. Charles County,1,13,18395,8277,9040
+Missouri,St. Charles County,1,14,13366,6029,6588
+Missouri,St. Charles County,1,15,9567,4172,4902
+Missouri,St. Charles County,1,16,7339,3103,3982
+Missouri,St. Charles County,1,17,5460,2065,3226
+Missouri,St. Charles County,1,18,4646,1390,3132
+Missouri,St. Charles County,2,0,360485,157536,163939
+Missouri,St. Charles County,2,1,24297,10244,9792
+Missouri,St. Charles County,2,2,26202,11170,10875
+Missouri,St. Charles County,2,3,26625,11676,11276
+Missouri,St. Charles County,2,4,25276,11224,10564
+Missouri,St. Charles County,2,5,21443,9460,9164
+Missouri,St. Charles County,2,6,23579,10264,10405
+Missouri,St. Charles County,2,7,23906,10223,10448
+Missouri,St. Charles County,2,8,24764,10574,10995
+Missouri,St. Charles County,2,9,25879,11451,11776
+Missouri,St. Charles County,2,10,29446,13282,13840
+Missouri,St. Charles County,2,11,27805,12842,13034
+Missouri,St. Charles County,2,12,22490,10090,10900
+Missouri,St. Charles County,2,13,18395,8277,9040
+Missouri,St. Charles County,2,14,13366,6029,6588
+Missouri,St. Charles County,2,15,9567,4172,4902
+Missouri,St. Charles County,2,16,7339,3103,3982
+Missouri,St. Charles County,2,17,5460,2065,3226
+Missouri,St. Charles County,2,18,4646,1390,3132
+Missouri,St. Charles County,3,0,361671,157929,164405
+Missouri,St. Charles County,3,1,24175,10182,9756
+Missouri,St. Charles County,3,2,26168,11141,10836
+Missouri,St. Charles County,3,3,26676,11670,11303
+Missouri,St. Charles County,3,4,25374,11266,10587
+Missouri,St. Charles County,3,5,21509,9468,9202
+Missouri,St. Charles County,3,6,23657,10316,10418
+Missouri,St. Charles County,3,7,24117,10317,10542
+Missouri,St. Charles County,3,8,24573,10473,10882
+Missouri,St. Charles County,3,9,25925,11450,11776
+Missouri,St. Charles County,3,10,29299,13204,13761
+Missouri,St. Charles County,3,11,28012,12904,13149
+Missouri,St. Charles County,3,12,22704,10224,10960
+Missouri,St. Charles County,3,13,18667,8376,9189
+Missouri,St. Charles County,3,14,13507,6076,6656
+Missouri,St. Charles County,3,15,9671,4221,4946
+Missouri,St. Charles County,3,16,7376,3127,3999
+Missouri,St. Charles County,3,17,5531,2099,3256
+Missouri,St. Charles County,3,18,4730,1415,3187
+Missouri,St. Charles County,4,0,365051,159012,165473
+Missouri,St. Charles County,4,1,23884,10066,9581
+Missouri,St. Charles County,4,2,25870,10958,10651
+Missouri,St. Charles County,4,3,26867,11646,11334
+Missouri,St. Charles County,4,4,25361,11262,10526
+Missouri,St. Charles County,4,5,21756,9492,9294
+Missouri,St. Charles County,4,6,23609,10344,10282
+Missouri,St. Charles County,4,7,24847,10684,10865
+Missouri,St. Charles County,4,8,23730,10068,10402
+Missouri,St. Charles County,4,9,26112,11458,11812
+Missouri,St. Charles County,4,10,28436,12764,13277
+Missouri,St. Charles County,4,11,28850,13156,13624
+Missouri,St. Charles County,4,12,23420,10682,11149
+Missouri,St. Charles County,4,13,19985,8875,9885
+Missouri,St. Charles County,4,14,13887,6192,6846
+Missouri,St. Charles County,4,15,10039,4393,5103
+Missouri,St. Charles County,4,16,7578,3229,4084
+Missouri,St. Charles County,4,17,5701,2216,3308
+Missouri,St. Charles County,4,18,5119,1527,3450
+Missouri,St. Charles County,5,0,368791,160027,166657
+Missouri,St. Charles County,5,1,23480,9965,9272
+Missouri,St. Charles County,5,2,25854,10830,10666
+Missouri,St. Charles County,5,3,26846,11581,11228
+Missouri,St. Charles County,5,4,25258,11143,10505
+Missouri,St. Charles County,5,5,22405,9682,9553
+Missouri,St. Charles County,5,6,23338,10144,10133
+Missouri,St. Charles County,5,7,25360,10898,11026
+Missouri,St. Charles County,5,8,23680,10013,10271
+Missouri,St. Charles County,5,9,25867,11211,11665
+Missouri,St. Charles County,5,10,27549,12310,12757
+Missouri,St. Charles County,5,11,29275,13355,13770
+Missouri,St. Charles County,5,12,24480,11199,11615
+Missouri,St. Charles County,5,13,20033,8833,9884
+Missouri,St. Charles County,5,14,15413,6852,7626
+Missouri,St. Charles County,5,15,10732,4682,5466
+Missouri,St. Charles County,5,16,7878,3324,4221
+Missouri,St. Charles County,5,17,5871,2347,3343
+Missouri,St. Charles County,5,18,5472,1658,3656
+Missouri,St. Charles County,6,0,373900,161662,168183
+Missouri,St. Charles County,6,1,23274,9805,9152
+Missouri,St. Charles County,6,2,26022,10891,10589
+Missouri,St. Charles County,6,3,26996,11540,11231
+Missouri,St. Charles County,6,4,25337,11051,10528
+Missouri,St. Charles County,6,5,23276,10047,9775
+Missouri,St. Charles County,6,6,22985,9994,9983
+Missouri,St. Charles County,6,7,26195,11224,11361
+Missouri,St. Charles County,6,8,24222,10288,10422
+Missouri,St. Charles County,6,9,25635,11029,11396
+Missouri,St. Charles County,6,10,26736,11837,12330
+Missouri,St. Charles County,6,11,29383,13341,13751
+Missouri,St. Charles County,6,12,25624,11729,12120
+Missouri,St. Charles County,6,13,20469,9046,10048
+Missouri,St. Charles County,6,14,16133,7143,7982
+Missouri,St. Charles County,6,15,11549,5035,5890
+Missouri,St. Charles County,6,16,8198,3449,4360
+Missouri,St. Charles County,6,17,6006,2391,3409
+Missouri,St. Charles County,6,18,5860,1822,3856
+Missouri,St. Charles County,7,0,379493,163582,170148
+Missouri,St. Charles County,7,1,23128,9717,9110
+Missouri,St. Charles County,7,2,25883,10789,10390
+Missouri,St. Charles County,7,3,27124,11563,11176
+Missouri,St. Charles County,7,4,25681,11146,10664
+Missouri,St. Charles County,7,5,23897,10207,10081
+Missouri,St. Charles County,7,6,23289,10072,10057
+Missouri,St. Charles County,7,7,26579,11381,11568
+Missouri,St. Charles County,7,8,24930,10649,10654
+Missouri,St. Charles County,7,9,25381,10812,11175
+Missouri,St. Charles County,7,10,25944,11409,11869
+Missouri,St. Charles County,7,11,29557,13369,13765
+Missouri,St. Charles County,7,12,26744,12228,12652
+Missouri,St. Charles County,7,13,21156,9367,10305
+Missouri,St. Charles County,7,14,17057,7496,8456
+Missouri,St. Charles County,7,15,12223,5309,6230
+Missouri,St. Charles County,7,16,8601,3635,4515
+Missouri,St. Charles County,7,17,6091,2469,3421
+Missouri,St. Charles County,7,18,6228,1964,4060
+Missouri,St. Louis County,1,0,998954,330529,358421
+Missouri,St. Louis County,1,1,58606,16849,16086
+Missouri,St. Louis County,1,2,62946,18986,18100
+Missouri,St. Louis County,1,3,67920,21423,20248
+Missouri,St. Louis County,1,4,70954,21948,20654
+Missouri,St. Louis County,1,5,60220,18725,18760
+Missouri,St. Louis County,1,6,63786,20923,20672
+Missouri,St. Louis County,1,7,58065,18309,18512
+Missouri,St. Louis County,1,8,58640,18121,18602
+Missouri,St. Louis County,1,9,64123,21148,22276
+Missouri,St. Louis County,1,10,76494,26813,28817
+Missouri,St. Louis County,1,11,79105,28861,30719
+Missouri,St. Louis County,1,12,70200,26253,28127
+Missouri,St. Louis County,1,13,58402,21269,23871
+Missouri,St. Louis County,1,14,42431,15031,17940
+Missouri,St. Louis County,1,15,31812,11243,14143
+Missouri,St. Louis County,1,16,27905,9811,13586
+Missouri,St. Louis County,1,17,23749,8095,12822
+Missouri,St. Louis County,1,18,23596,6721,14486
+Missouri,St. Louis County,2,0,998883,330484,358381
+Missouri,St. Louis County,2,1,58606,16848,16085
+Missouri,St. Louis County,2,2,62943,18985,18096
+Missouri,St. Louis County,2,3,67916,21421,20246
+Missouri,St. Louis County,2,4,70951,21948,20652
+Missouri,St. Louis County,2,5,60213,18721,18759
+Missouri,St. Louis County,2,6,63772,20916,20668
+Missouri,St. Louis County,2,7,58057,18300,18509
+Missouri,St. Louis County,2,8,58643,18121,18602
+Missouri,St. Louis County,2,9,64118,21146,22274
+Missouri,St. Louis County,2,10,76489,26811,28813
+Missouri,St. Louis County,2,11,79088,28850,30712
+Missouri,St. Louis County,2,12,70198,26251,28125
+Missouri,St. Louis County,2,13,58399,21267,23871
+Missouri,St. Louis County,2,14,42433,15031,17939
+Missouri,St. Louis County,2,15,31811,11243,14141
+Missouri,St. Louis County,2,16,27904,9810,13585
+Missouri,St. Louis County,2,17,23749,8095,12820
+Missouri,St. Louis County,2,18,23593,6720,14484
+Missouri,St. Louis County,3,0,998880,330167,357917
+Missouri,St. Louis County,3,1,58611,16866,16048
+Missouri,St. Louis County,3,2,62659,18906,17909
+Missouri,St. Louis County,3,3,67722,21232,20144
+Missouri,St. Louis County,3,4,71204,22089,20784
+Missouri,St. Louis County,3,5,59828,18450,18524
+Missouri,St. Louis County,3,6,63841,20973,20736
+Missouri,St. Louis County,3,7,58370,18454,18605
+Missouri,St. Louis County,3,8,58180,17943,18454
+Missouri,St. Louis County,3,9,63944,21037,22151
+Missouri,St. Louis County,3,10,75865,26517,28486
+Missouri,St. Louis County,3,11,79128,28844,30691
+Missouri,St. Louis County,3,12,70637,26370,28288
+Missouri,St. Louis County,3,13,58958,21484,24099
+Missouri,St. Louis County,3,14,42691,15146,17988
+Missouri,St. Louis County,3,15,31949,11247,14189
+Missouri,St. Louis County,3,16,27734,9743,13444
+Missouri,St. Louis County,3,17,23765,8095,12798
+Missouri,St. Louis County,3,18,23794,6771,14579
+Missouri,St. Louis County,4,0,999067,328832,356578
+Missouri,St. Louis County,4,1,58527,16798,16080
+Missouri,St. Louis County,4,2,62119,18692,17557
+Missouri,St. Louis County,4,3,66871,20604,19791
+Missouri,St. Louis County,4,4,70587,22187,20810
+Missouri,St. Louis County,4,5,59688,17865,17976
+Missouri,St. Louis County,4,6,64533,21050,21094
+Missouri,St. Louis County,4,7,59859,19123,19029
+Missouri,St. Louis County,4,8,56382,17278,17936
+Missouri,St. Louis County,4,9,63426,20654,21696
+Missouri,St. Louis County,4,10,72670,25030,26944
+Missouri,St. Louis County,4,11,79248,28764,30645
+Missouri,St. Louis County,4,12,72088,26792,28747
+Missouri,St. Louis County,4,13,61710,22555,25237
+Missouri,St. Louis County,4,14,43615,15535,18198
+Missouri,St. Louis County,4,15,32573,11327,14435
+Missouri,St. Louis County,4,16,27156,9497,12999
+Missouri,St. Louis County,4,17,23629,8077,12569
+Missouri,St. Louis County,4,18,24386,7004,14835
+Missouri,St. Louis County,5,0,1000800,328216,355346
+Missouri,St. Louis County,5,1,58373,16802,16051
+Missouri,St. Louis County,5,2,62032,18333,17357
+Missouri,St. Louis County,5,3,65823,20185,19246
+Missouri,St. Louis County,5,4,68781,21629,20240
+Missouri,St. Louis County,5,5,61241,18044,18082
+Missouri,St. Louis County,5,6,64357,20922,20976
+Missouri,St. Louis County,5,7,61443,19715,19593
+Missouri,St. Louis County,5,8,55995,17233,17891
+Missouri,St. Louis County,5,9,62756,20240,21082
+Missouri,St. Louis County,5,10,69424,23674,25451
+Missouri,St. Louis County,5,11,78300,28334,30115
+Missouri,St. Louis County,5,12,73717,27231,29194
+Missouri,St. Louis County,5,13,61845,22581,25149
+Missouri,St. Louis County,5,14,47370,17000,19733
+Missouri,St. Louis County,5,15,33934,11814,14913
+Missouri,St. Louis County,5,16,26783,9223,12690
+Missouri,St. Louis County,5,17,23419,7979,12344
+Missouri,St. Louis County,5,18,25207,7277,15239
+Missouri,St. Louis County,6,0,1001491,326738,353601
+Missouri,St. Louis County,6,1,58101,16738,16014
+Missouri,St. Louis County,6,2,61484,17821,17190
+Missouri,St. Louis County,6,3,64788,19802,18761
+Missouri,St. Louis County,6,4,67296,21088,19738
+Missouri,St. Louis County,6,5,62726,18383,18275
+Missouri,St. Louis County,6,6,63657,20272,20410
+Missouri,St. Louis County,6,7,63083,20167,20150
+Missouri,St. Louis County,6,8,56470,17674,18048
+Missouri,St. Louis County,6,9,61464,19455,20354
+Missouri,St. Louis County,6,10,66653,22476,23974
+Missouri,St. Louis County,6,11,77057,27643,29412
+Missouri,St. Louis County,6,12,74951,27613,29544
+Missouri,St. Louis County,6,13,62865,22948,25497
+Missouri,St. Louis County,6,14,48985,17517,20217
+Missouri,St. Louis County,6,15,35806,12511,15668
+Missouri,St. Louis County,6,16,26943,9214,12673
+Missouri,St. Louis County,6,17,23137,7866,12048
+Missouri,St. Louis County,6,18,26025,7550,15628
+Missouri,St. Louis County,7,0,1001876,325314,351495
+Missouri,St. Louis County,7,1,57976,16674,15974
+Missouri,St. Louis County,7,2,60575,17531,16919
+Missouri,St. Louis County,7,3,64507,19417,18529
+Missouri,St. Louis County,7,4,65739,20497,19304
+Missouri,St. Louis County,7,5,64128,18854,18488
+Missouri,St. Louis County,7,6,63274,19732,19875
+Missouri,St. Louis County,7,7,63762,20474,20441
+Missouri,St. Louis County,7,8,57697,18189,18546
+Missouri,St. Louis County,7,9,59957,18811,19383
+Missouri,St. Louis County,7,10,64180,21442,22628
+Missouri,St. Louis County,7,11,75463,26743,28744
+Missouri,St. Louis County,7,12,75126,27479,29261
+Missouri,St. Louis County,7,13,64353,23561,26032
+Missouri,St. Louis County,7,14,51426,18303,21192
+Missouri,St. Louis County,7,15,37059,12854,16022
+Missouri,St. Louis County,7,16,27359,9322,12702
+Missouri,St. Louis County,7,17,22695,7656,11670
+Missouri,St. Louis County,7,18,26600,7775,15785
+Missouri,Warren County,1,0,32513,14989,15226
+Missouri,Warren County,1,1,2305,1029,986
+Missouri,Warren County,1,2,2260,999,990
+Missouri,Warren County,1,3,2182,1028,919
+Missouri,Warren County,1,4,2145,990,954
+Missouri,Warren County,1,5,1778,784,810
+Missouri,Warren County,1,6,2000,886,943
+Missouri,Warren County,1,7,1911,877,890
+Missouri,Warren County,1,8,1875,909,835
+Missouri,Warren County,1,9,2040,969,950
+Missouri,Warren County,1,10,2661,1236,1291
+Missouri,Warren County,1,11,2637,1297,1238
+Missouri,Warren County,1,12,2142,1029,1037
+Missouri,Warren County,1,13,1828,823,930
+Missouri,Warren County,1,14,1644,762,825
+Missouri,Warren County,1,15,1180,566,575
+Missouri,Warren County,1,16,905,418,449
+Missouri,Warren County,1,17,560,234,309
+Missouri,Warren County,1,18,460,153,295
+Missouri,Warren County,2,0,32513,14989,15226
+Missouri,Warren County,2,1,2305,1029,986
+Missouri,Warren County,2,2,2260,999,990
+Missouri,Warren County,2,3,2182,1028,919
+Missouri,Warren County,2,4,2145,990,954
+Missouri,Warren County,2,5,1778,784,810
+Missouri,Warren County,2,6,2000,886,943
+Missouri,Warren County,2,7,1911,877,890
+Missouri,Warren County,2,8,1875,909,835
+Missouri,Warren County,2,9,2040,969,950
+Missouri,Warren County,2,10,2661,1236,1291
+Missouri,Warren County,2,11,2637,1297,1238
+Missouri,Warren County,2,12,2142,1029,1037
+Missouri,Warren County,2,13,1828,823,930
+Missouri,Warren County,2,14,1644,762,825
+Missouri,Warren County,2,15,1180,566,575
+Missouri,Warren County,2,16,905,418,449
+Missouri,Warren County,2,17,560,234,309
+Missouri,Warren County,2,18,460,153,295
+Missouri,Warren County,3,0,32574,15015,15242
+Missouri,Warren County,3,1,2289,1022,984
+Missouri,Warren County,3,2,2252,996,982
+Missouri,Warren County,3,3,2200,1030,927
+Missouri,Warren County,3,4,2134,987,944
+Missouri,Warren County,3,5,1796,796,813
+Missouri,Warren County,3,6,2008,892,943
+Missouri,Warren County,3,7,1922,883,895
+Missouri,Warren County,3,8,1862,897,833
+Missouri,Warren County,3,9,2028,959,947
+Missouri,Warren County,3,10,2623,1220,1272
+Missouri,Warren County,3,11,2663,1310,1249
+Missouri,Warren County,3,12,2161,1039,1040
+Missouri,Warren County,3,13,1856,842,941
+Missouri,Warren County,3,14,1645,763,827
+Missouri,Warren County,3,15,1196,572,583
+Missouri,Warren County,3,16,913,419,454
+Missouri,Warren County,3,17,563,235,310
+Missouri,Warren County,3,18,463,153,298
+Missouri,Warren County,4,0,32614,14979,15249
+Missouri,Warren County,4,1,2231,983,977
+Missouri,Warren County,4,2,2227,978,982
+Missouri,Warren County,4,3,2213,1020,938
+Missouri,Warren County,4,4,2078,956,906
+Missouri,Warren County,4,5,1805,808,797
+Missouri,Warren County,4,6,2001,913,916
+Missouri,Warren County,4,7,1974,882,938
+Missouri,Warren County,4,8,1767,839,812
+Missouri,Warren County,4,9,1998,932,931
+Missouri,Warren County,4,10,2461,1142,1187
+Missouri,Warren County,4,11,2721,1325,1277
+Missouri,Warren County,4,12,2185,1071,1023
+Missouri,Warren County,4,13,1960,896,985
+Missouri,Warren County,4,14,1687,784,853
+Missouri,Warren County,4,15,1288,615,626
+Missouri,Warren County,4,16,959,441,476
+Missouri,Warren County,4,17,582,243,319
+Missouri,Warren County,4,18,477,151,306
+Missouri,Warren County,5,0,32785,15029,15278
+Missouri,Warren County,5,1,2137,943,931
+Missouri,Warren County,5,2,2315,1001,1027
+Missouri,Warren County,5,3,2194,1007,924
+Missouri,Warren County,5,4,2045,950,883
+Missouri,Warren County,5,5,1826,810,800
+Missouri,Warren County,5,6,1949,875,892
+Missouri,Warren County,5,7,2027,905,961
+Missouri,Warren County,5,8,1761,825,819
+Missouri,Warren County,5,9,2041,947,943
+Missouri,Warren County,5,10,2321,1079,1103
+Missouri,Warren County,5,11,2756,1321,1306
+Missouri,Warren County,5,12,2282,1129,1061
+Missouri,Warren County,5,13,1926,875,966
+Missouri,Warren County,5,14,1774,837,882
+Missouri,Warren County,5,15,1352,659,655
+Missouri,Warren County,5,16,953,447,459
+Missouri,Warren County,5,17,633,262,346
+Missouri,Warren County,5,18,493,157,320
+Missouri,Warren County,6,0,33010,15073,15355
+Missouri,Warren County,6,1,2091,913,904
+Missouri,Warren County,6,2,2361,1019,1034
+Missouri,Warren County,6,3,2275,1040,976
+Missouri,Warren County,6,4,1988,929,849
+Missouri,Warren County,6,5,1788,800,781
+Missouri,Warren County,6,6,1934,855,882
+Missouri,Warren County,6,7,2029,889,957
+Missouri,Warren County,6,8,1837,856,848
+Missouri,Warren County,6,9,1976,922,899
+Missouri,Warren County,6,10,2234,1027,1071
+Missouri,Warren County,6,11,2759,1332,1295
+Missouri,Warren County,6,12,2423,1186,1137
+Missouri,Warren County,6,13,1922,877,959
+Missouri,Warren County,6,14,1740,807,869
+Missouri,Warren County,6,15,1463,703,718
+Missouri,Warren County,6,16,975,457,478
+Missouri,Warren County,6,17,685,293,358
+Missouri,Warren County,6,18,530,168,340
+Missouri,Warren County,7,0,33253,15191,15376
+Missouri,Warren County,7,1,2051,903,881
+Missouri,Warren County,7,2,2396,1055,1008
+Missouri,Warren County,7,3,2346,1061,1009
+Missouri,Warren County,7,4,1996,939,831
+Missouri,Warren County,7,5,1795,791,794
+Missouri,Warren County,7,6,1935,857,889
+Missouri,Warren County,7,7,2035,899,956
+Missouri,Warren County,7,8,1886,862,877
+Missouri,Warren County,7,9,1895,892,842
+Missouri,Warren County,7,10,2168,986,1031
+Missouri,Warren County,7,11,2720,1281,1300
+Missouri,Warren County,7,12,2499,1225,1167
+Missouri,Warren County,7,13,2016,952,984
+Missouri,Warren County,7,14,1741,794,873
+Missouri,Warren County,7,15,1521,720,756
+Missouri,Warren County,7,16,1025,483,499
+Missouri,Warren County,7,17,697,307,356
+Missouri,Warren County,7,18,531,184,323
+Missouri,St. Louis city,1,0,319294,67741,67300
+Missouri,St. Louis city,1,1,21089,3126,2956
+Missouri,St. Louis city,1,2,17379,2139,1985
+Missouri,St. Louis city,1,3,16911,1952,1778
+Missouri,St. Louis city,1,4,22551,2828,2873
+Missouri,St. Louis city,1,5,28852,6106,7037
+Missouri,St. Louis city,1,6,31991,8739,8800
+Missouri,St. Louis city,1,7,25670,7041,6173
+Missouri,St. Louis city,1,8,20813,5099,4148
+Missouri,St. Louis city,1,9,19431,4627,3694
+Missouri,St. Louis city,1,10,21641,5256,4330
+Missouri,St. Louis city,1,11,23170,5490,4971
+Missouri,St. Louis city,1,12,19877,4872,4599
+Missouri,St. Louis city,1,13,14744,3601,3661
+Missouri,St. Louis city,1,14,10045,2292,2557
+Missouri,St. Louis city,1,15,7644,1521,1946
+Missouri,St. Louis city,1,16,6646,1217,1831
+Missouri,St. Louis city,1,17,5462,970,1840
+Missouri,St. Louis city,1,18,5378,865,2121
+Missouri,St. Louis city,2,0,319365,67786,67340
+Missouri,St. Louis city,2,1,21089,3127,2957
+Missouri,St. Louis city,2,2,17382,2140,1989
+Missouri,St. Louis city,2,3,16915,1954,1780
+Missouri,St. Louis city,2,4,22554,2828,2875
+Missouri,St. Louis city,2,5,28859,6110,7038
+Missouri,St. Louis city,2,6,32005,8746,8804
+Missouri,St. Louis city,2,7,25678,7050,6176
+Missouri,St. Louis city,2,8,20810,5099,4148
+Missouri,St. Louis city,2,9,19436,4629,3696
+Missouri,St. Louis city,2,10,21646,5258,4334
+Missouri,St. Louis city,2,11,23187,5501,4978
+Missouri,St. Louis city,2,12,19879,4874,4601
+Missouri,St. Louis city,2,13,14747,3603,3661
+Missouri,St. Louis city,2,14,10043,2292,2558
+Missouri,St. Louis city,2,15,7645,1521,1948
+Missouri,St. Louis city,2,16,6647,1218,1832
+Missouri,St. Louis city,2,17,5462,970,1842
+Missouri,St. Louis city,2,18,5381,866,2123
+Missouri,St. Louis city,3,0,319258,67924,67445
+Missouri,St. Louis city,3,1,21133,3205,3036
+Missouri,St. Louis city,3,2,17369,2173,2008
+Missouri,St. Louis city,3,3,16845,1948,1785
+Missouri,St. Louis city,3,4,22153,2771,2817
+Missouri,St. Louis city,3,5,28586,5968,6861
+Missouri,St. Louis city,3,6,32096,8764,8851
+Missouri,St. Louis city,3,7,25976,7143,6313
+Missouri,St. Louis city,3,8,20844,5114,4185
+Missouri,St. Louis city,3,9,19442,4661,3699
+Missouri,St. Louis city,3,10,21531,5244,4310
+Missouri,St. Louis city,3,11,23150,5493,4974
+Missouri,St. Louis city,3,12,20086,4929,4637
+Missouri,St. Louis city,3,13,14984,3656,3722
+Missouri,St. Louis city,3,14,10049,2299,2580
+Missouri,St. Louis city,3,15,7612,1527,1933
+Missouri,St. Louis city,3,16,6596,1207,1806
+Missouri,St. Louis city,3,17,5414,954,1815
+Missouri,St. Louis city,3,18,5392,868,2113
+Missouri,St. Louis city,4,0,319188,68520,67769
+Missouri,St. Louis city,4,1,21311,3496,3228
+Missouri,St. Louis city,4,2,17397,2293,2149
+Missouri,St. Louis city,4,3,16626,1960,1809
+Missouri,St. Louis city,4,4,20807,2614,2620
+Missouri,St. Louis city,4,5,27685,5293,6100
+Missouri,St. Louis city,4,6,32593,8936,9194
+Missouri,St. Louis city,4,7,27128,7589,6813
+Missouri,St. Louis city,4,8,20549,5101,4271
+Missouri,St. Louis city,4,9,19422,4756,3678
+Missouri,St. Louis city,4,10,20900,5080,4122
+Missouri,St. Louis city,4,11,22838,5486,4941
+Missouri,St. Louis city,4,12,20901,5106,4803
+Missouri,St. Louis city,4,13,16131,3948,3978
+Missouri,St. Louis city,4,14,10196,2371,2641
+Missouri,St. Louis city,4,15,7624,1548,1937
+Missouri,St. Louis city,4,16,6382,1160,1687
+Missouri,St. Louis city,4,17,5269,906,1711
+Missouri,St. Louis city,4,18,5429,877,2087
+Missouri,St. Louis city,5,0,319274,68954,68360
+Missouri,St. Louis city,5,1,21661,3733,3390
+Missouri,St. Louis city,5,2,17730,2435,2345
+Missouri,St. Louis city,5,3,16226,1973,1861
+Missouri,St. Louis city,5,4,19542,2544,2553
+Missouri,St. Louis city,5,5,26992,4802,5526
+Missouri,St. Louis city,5,6,32591,8887,9280
+Missouri,St. Louis city,5,7,28006,7933,7156
+Missouri,St. Louis city,5,8,20800,5230,4541
+Missouri,St. Louis city,5,9,19395,4775,3766
+Missouri,St. Louis city,5,10,20305,4884,3948
+Missouri,St. Louis city,5,11,22302,5346,4805
+Missouri,St. Louis city,5,12,21586,5225,5052
+Missouri,St. Louis city,5,13,16866,4168,4083
+Missouri,St. Louis city,5,14,10817,2578,2820
+Missouri,St. Louis city,5,15,7727,1622,1994
+Missouri,St. Louis city,5,16,6148,1103,1596
+Missouri,St. Louis city,5,17,5061,869,1563
+Missouri,St. Louis city,5,18,5519,847,2081
+Missouri,St. Louis city,6,0,318496,69425,68440
+Missouri,St. Louis city,6,1,21332,3875,3440
+Missouri,St. Louis city,6,2,18097,2595,2522
+Missouri,St. Louis city,6,3,15785,2009,1885
+Missouri,St. Louis city,6,4,18260,2486,2478
+Missouri,St. Louis city,6,5,26627,4498,5028
+Missouri,St. Louis city,6,6,32333,8610,9121
+Missouri,St. Louis city,6,7,28893,8266,7537
+Missouri,St. Louis city,6,8,21090,5473,4762
+Missouri,St. Louis city,6,9,19339,4726,3845
+Missouri,St. Louis city,6,10,19617,4753,3804
+Missouri,St. Louis city,6,11,21895,5246,4679
+Missouri,St. Louis city,6,12,22030,5321,5100
+Missouri,St. Louis city,6,13,17578,4391,4272
+Missouri,St. Louis city,6,14,11436,2724,2934
+Missouri,St. Louis city,6,15,7784,1704,2035
+Missouri,St. Louis city,6,16,6071,1077,1573
+Missouri,St. Louis city,6,17,4840,844,1406
+Missouri,St. Louis city,6,18,5489,827,2019
+Missouri,St. Louis city,7,0,317419,69717,68618
+Missouri,St. Louis city,7,1,21205,4009,3576
+Missouri,St. Louis city,7,2,18187,2734,2593
+Missouri,St. Louis city,7,3,15717,2049,1976
+Missouri,St. Louis city,7,4,17335,2429,2428
+Missouri,St. Louis city,7,5,25514,4161,4749
+Missouri,St. Louis city,7,6,32490,8575,8854
+Missouri,St. Louis city,7,7,29217,8397,7779
+Missouri,St. Louis city,7,8,21654,5685,4967
+Missouri,St. Louis city,7,9,19170,4581,3815
+Missouri,St. Louis city,7,10,18934,4538,3720
+Missouri,St. Louis city,7,11,21336,5175,4586
+Missouri,St. Louis city,7,12,22237,5329,5091
+Missouri,St. Louis city,7,13,18354,4634,4506
+Missouri,St. Louis city,7,14,12091,2919,3083
+Missouri,St. Louis city,7,15,7970,1782,2068
+Missouri,St. Louis city,7,16,5958,1126,1577
+Missouri,St. Louis city,7,17,4635,809,1292
+Missouri,St. Louis city,7,18,5415,785,1958
+Illinois,Madison County,1,0,269282,114466,119257
+Illinois,Madison County,1,1,16307,6457,6177
+Illinois,Madison County,1,2,17065,7077,6632
+Illinois,Madison County,1,3,17167,7202,6632
+Illinois,Madison County,1,4,18360,7652,7318
+Illinois,Madison County,1,5,19939,8317,8293
+Illinois,Madison County,1,6,17837,7760,7483
+Illinois,Madison County,1,7,16290,6932,7058
+Illinois,Madison County,1,8,16715,7097,7256
+Illinois,Madison County,1,9,17338,7615,7643
+Illinois,Madison County,1,10,20357,9100,9169
+Illinois,Madison County,1,11,20911,9553,9379
+Illinois,Madison County,1,12,17820,7913,8345
+Illinois,Madison County,1,13,14748,6534,7028
+Illinois,Madison County,1,14,11179,4904,5437
+Illinois,Madison County,1,15,8580,3662,4376
+Illinois,Madison County,1,16,7246,2884,3946
+Illinois,Madison County,1,17,5982,2204,3500
+Illinois,Madison County,1,18,5441,1603,3585
+Illinois,Madison County,2,0,269328,114471,119294
+Illinois,Madison County,2,1,16306,6456,6177
+Illinois,Madison County,2,2,17062,7075,6631
+Illinois,Madison County,2,3,17166,7202,6631
+Illinois,Madison County,2,4,18360,7652,7318
+Illinois,Madison County,2,5,19941,8319,8293
+Illinois,Madison County,2,6,17838,7761,7483
+Illinois,Madison County,2,7,16289,6932,7057
+Illinois,Madison County,2,8,16716,7098,7256
+Illinois,Madison County,2,9,17338,7615,7643
+Illinois,Madison County,2,10,20358,9101,9169
+Illinois,Madison County,2,11,20912,9554,9379
+Illinois,Madison County,2,12,17821,7914,8345
+Illinois,Madison County,2,13,14749,6535,7028
+Illinois,Madison County,2,14,11182,4904,5440
+Illinois,Madison County,2,15,8584,3662,4378
+Illinois,Madison County,2,16,7253,2884,3952
+Illinois,Madison County,2,17,5989,2204,3507
+Illinois,Madison County,2,18,5464,1603,3607
+Illinois,Madison County,3,0,269341,114426,119222
+Illinois,Madison County,3,1,16285,6439,6160
+Illinois,Madison County,3,2,17001,7041,6582
+Illinois,Madison County,3,3,17146,7195,6627
+Illinois,Madison County,3,4,18092,7525,7168
+Illinois,Madison County,3,5,19974,8328,8303
+Illinois,Madison County,3,6,17942,7800,7542
+Illinois,Madison County,3,7,16398,6971,7107
+Illinois,Madison County,3,8,16598,7040,7183
+Illinois,Madison County,3,9,17298,7588,7623
+Illinois,Madison County,3,10,20234,9042,9116
+Illinois,Madison County,3,11,20925,9544,9390
+Illinois,Madison County,3,12,18003,8016,8410
+Illinois,Madison County,3,13,14892,6596,7103
+Illinois,Madison County,3,14,11216,4925,5451
+Illinois,Madison County,3,15,8620,3664,4402
+Illinois,Madison County,3,16,7199,2870,3915
+Illinois,Madison County,3,17,5998,2207,3507
+Illinois,Madison County,3,18,5520,1635,3633
+Illinois,Madison County,4,0,268500,113852,118649
+Illinois,Madison County,4,1,16232,6446,6127
+Illinois,Madison County,4,2,16750,6884,6387
+Illinois,Madison County,4,3,17020,7163,6581
+Illinois,Madison County,4,4,17107,7088,6662
+Illinois,Madison County,4,5,19938,8183,8396
+Illinois,Madison County,4,6,17957,7813,7526
+Illinois,Madison County,4,7,16750,7091,7257
+Illinois,Madison County,4,8,15982,6756,6890
+Illinois,Madison County,4,9,17309,7554,7607
+Illinois,Madison County,4,10,19394,8652,8731
+Illinois,Madison County,4,11,21020,9528,9453
+Illinois,Madison County,4,12,18575,8361,8548
+Illinois,Madison County,4,13,15616,6846,7514
+Illinois,Madison County,4,14,11340,4991,5494
+Illinois,Madison County,4,15,8778,3699,4495
+Illinois,Madison County,4,16,7092,2856,3821
+Illinois,Madison County,4,17,5964,2214,3467
+Illinois,Madison County,4,18,5676,1727,3693
+Illinois,Madison County,5,0,268039,113442,118118
+Illinois,Madison County,5,1,16065,6282,6132
+Illinois,Madison County,5,2,16788,6841,6311
+Illinois,Madison County,5,3,16846,7122,6477
+Illinois,Madison County,5,4,16719,6919,6436
+Illinois,Madison County,5,5,19286,7851,8080
+Illinois,Madison County,5,6,18065,7837,7524
+Illinois,Madison County,5,7,17015,7258,7281
+Illinois,Madison County,5,8,15575,6561,6784
+Illinois,Madison County,5,9,17412,7518,7629
+Illinois,Madison County,5,10,18530,8250,8309
+Illinois,Madison County,5,11,20864,9415,9431
+Illinois,Madison County,5,12,19106,8641,8716
+Illinois,Madison County,5,13,15592,6833,7456
+Illinois,Madison County,5,14,12285,5402,5974
+Illinois,Madison County,5,15,9193,3886,4678
+Illinois,Madison County,5,16,7080,2874,3764
+Illinois,Madison County,5,17,5789,2169,3354
+Illinois,Madison County,5,18,5829,1783,3782
+Illinois,Madison County,6,0,267247,112723,117376
+Illinois,Madison County,6,1,15809,6194,5982
+Illinois,Madison County,6,2,16699,6647,6286
+Illinois,Madison County,6,3,16848,7077,6445
+Illinois,Madison County,6,4,16441,6785,6307
+Illinois,Madison County,6,5,18546,7501,7628
+Illinois,Madison County,6,6,18135,7823,7564
+Illinois,Madison County,6,7,17150,7324,7277
+Illinois,Madison County,6,8,15630,6563,6792
+Illinois,Madison County,6,9,17162,7341,7513
+Illinois,Madison County,6,10,17807,7914,7886
+Illinois,Madison County,6,11,20468,9259,9219
+Illinois,Madison County,6,12,19637,8866,8950
+Illinois,Madison County,6,13,15947,6967,7624
+Illinois,Madison County,6,14,12557,5529,6100
+Illinois,Madison County,6,15,9612,4031,4892
+Illinois,Madison County,6,16,7125,2928,3761
+Illinois,Madison County,6,17,5705,2149,3266
+Illinois,Madison County,6,18,5969,1825,3884
+Illinois,Madison County,7,0,266560,111989,116579
+Illinois,Madison County,7,1,15703,6147,5920
+Illinois,Madison County,7,2,16464,6440,6198
+Illinois,Madison County,7,3,17001,7046,6490
+Illinois,Madison County,7,4,16256,6749,6159
+Illinois,Madison County,7,5,17539,7040,7096
+Illinois,Madison County,7,6,18475,7897,7585
+Illinois,Madison County,7,7,17107,7309,7285
+Illinois,Madison County,7,8,15891,6678,6884
+Illinois,Madison County,7,9,16760,7114,7311
+Illinois,Madison County,7,10,17302,7618,7630
+Illinois,Madison County,7,11,19905,8987,8939
+Illinois,Madison County,7,12,19947,8990,9086
+Illinois,Madison County,7,13,16438,7174,7797
+Illinois,Madison County,7,14,13059,5696,6357
+Illinois,Madison County,7,15,9812,4133,4945
+Illinois,Madison County,7,16,7266,2994,3815
+Illinois,Madison County,7,17,5595,2113,3173
+Illinois,Madison County,7,18,6040,1864,3909
+Illinois,St. Clair County,1,0,270056,83569,86551
+Illinois,St. Clair County,1,1,18398,4857,4650
+Illinois,St. Clair County,1,2,18671,5175,4736
+Illinois,St. Clair County,1,3,19182,5131,5058
+Illinois,St. Clair County,1,4,19754,5373,4967
+Illinois,St. Clair County,1,5,17426,5078,4909
+Illinois,St. Clair County,1,6,18105,5715,5519
+Illinois,St. Clair County,1,7,17073,5334,5341
+Illinois,St. Clair County,1,8,17358,5306,5281
+Illinois,St. Clair County,1,9,17859,5681,5714
+Illinois,St. Clair County,1,10,20764,7151,7053
+Illinois,St. Clair County,1,11,20542,7107,7253
+Illinois,St. Clair County,1,12,17521,6062,6216
+Illinois,St. Clair County,1,13,13593,4855,4911
+Illinois,St. Clair County,1,14,9779,3338,3673
+Illinois,St. Clair County,1,15,7473,2466,3126
+Illinois,St. Clair County,1,16,6486,2117,2863
+Illinois,St. Clair County,1,17,5366,1683,2568
+Illinois,St. Clair County,1,18,4706,1140,2713
+Illinois,St. Clair County,2,0,270063,83573,86554
+Illinois,St. Clair County,2,1,18399,4858,4650
+Illinois,St. Clair County,2,2,18674,5177,4737
+Illinois,St. Clair County,2,3,19183,5131,5059
+Illinois,St. Clair County,2,4,19754,5373,4967
+Illinois,St. Clair County,2,5,17426,5078,4909
+Illinois,St. Clair County,2,6,18105,5715,5519
+Illinois,St. Clair County,2,7,17075,5335,5342
+Illinois,St. Clair County,2,8,17358,5306,5281
+Illinois,St. Clair County,2,9,17859,5681,5714
+Illinois,St. Clair County,2,10,20764,7151,7053
+Illinois,St. Clair County,2,11,20542,7107,7253
+Illinois,St. Clair County,2,12,17521,6062,6216
+Illinois,St. Clair County,2,13,13593,4855,4911
+Illinois,St. Clair County,2,14,9779,3338,3673
+Illinois,St. Clair County,2,15,7473,2466,3126
+Illinois,St. Clair County,2,16,6486,2117,2863
+Illinois,St. Clair County,2,17,5366,1683,2568
+Illinois,St. Clair County,2,18,4706,1140,2713
+Illinois,St. Clair County,3,0,270406,83726,86572
+Illinois,St. Clair County,3,1,18367,4850,4642
+Illinois,St. Clair County,3,2,18651,5166,4724
+Illinois,St. Clair County,3,3,19169,5149,5036
+Illinois,St. Clair County,3,4,19679,5332,4933
+Illinois,St. Clair County,3,5,17519,5082,4938
+Illinois,St. Clair County,3,6,18090,5721,5506
+Illinois,St. Clair County,3,7,17178,5388,5375
+Illinois,St. Clair County,3,8,17301,5300,5242
+Illinois,St. Clair County,3,9,17822,5664,5702
+Illinois,St. Clair County,3,10,20699,7124,7030
+Illinois,St. Clair County,3,11,20600,7118,7280
+Illinois,St. Clair County,3,12,17652,6111,6253
+Illinois,St. Clair County,3,13,13792,4935,4975
+Illinois,St. Clair County,3,14,9829,3367,3693
+Illinois,St. Clair County,3,15,7478,2465,3116
+Illinois,St. Clair County,3,16,6450,2103,2837
+Illinois,St. Clair County,3,17,5377,1687,2568
+Illinois,St. Clair County,3,18,4753,1164,2722
+Illinois,St. Clair County,4,0,270088,83713,86213
+Illinois,St. Clair County,4,1,18161,4879,4596
+Illinois,St. Clair County,4,2,18410,5087,4686
+Illinois,St. Clair County,4,3,18985,5136,4948
+Illinois,St. Clair County,4,4,19115,5175,4732
+Illinois,St. Clair County,4,5,17701,5109,4904
+Illinois,St. Clair County,4,6,17950,5675,5476
+Illinois,St. Clair County,4,7,17520,5567,5523
+Illinois,St. Clair County,4,8,16881,5165,5054
+Illinois,St. Clair County,4,9,17592,5531,5618
+Illinois,St. Clair County,4,10,20056,6834,6744
+Illinois,St. Clair County,4,11,20750,7180,7348
+Illinois,St. Clair County,4,12,18157,6255,6444
+Illinois,St. Clair County,4,13,14683,5267,5255
+Illinois,St. Clair County,4,14,10119,3464,3801
+Illinois,St. Clair County,4,15,7482,2472,3058
+Illinois,St. Clair County,4,16,6344,2044,2761
+Illinois,St. Clair County,4,17,5316,1669,2527
+Illinois,St. Clair County,4,18,4866,1204,2738
+Illinois,St. Clair County,5,0,268785,83163,85492
+Illinois,St. Clair County,5,1,17704,4822,4501
+Illinois,St. Clair County,5,2,18314,4971,4677
+Illinois,St. Clair County,5,3,18677,5033,4841
+Illinois,St. Clair County,5,4,18457,4959,4643
+Illinois,St. Clair County,5,5,17947,5174,4788
+Illinois,St. Clair County,5,6,17530,5427,5265
+Illinois,St. Clair County,5,7,17631,5654,5511
+Illinois,St. Clair County,5,8,16554,5134,5064
+Illinois,St. Clair County,5,9,17372,5375,5452
+Illinois,St. Clair County,5,10,19372,6584,6417
+Illinois,St. Clair County,5,11,20506,7084,7189
+Illinois,St. Clair County,5,12,18660,6418,6677
+Illinois,St. Clair County,5,13,14834,5266,5266
+Illinois,St. Clair County,5,14,10986,3790,4152
+Illinois,St. Clair County,5,15,7686,2559,3061
+Illinois,St. Clair County,5,16,6329,2019,2759
+Illinois,St. Clair County,5,17,5171,1602,2453
+Illinois,St. Clair County,5,18,5055,1292,2776
+Illinois,St. Clair County,6,0,267065,82617,84769
+Illinois,St. Clair County,6,1,17292,4751,4400
+Illinois,St. Clair County,6,2,18195,4887,4691
+Illinois,St. Clair County,6,3,18297,5008,4698
+Illinois,St. Clair County,6,4,17826,4817,4555
+Illinois,St. Clair County,6,5,18009,5061,4675
+Illinois,St. Clair County,6,6,17364,5349,5154
+Illinois,St. Clair County,6,7,17459,5638,5396
+Illinois,St. Clair County,6,8,16512,5227,5147
+Illinois,St. Clair County,6,9,17137,5247,5335
+Illinois,St. Clair County,6,10,18291,6090,6045
+Illinois,St. Clair County,6,11,20202,7003,6984
+Illinois,St. Clair County,6,12,19160,6579,6878
+Illinois,St. Clair County,6,13,15186,5276,5442
+Illinois,St. Clair County,6,14,11387,4010,4181
+Illinois,St. Clair County,6,15,8085,2717,3206
+Illinois,St. Clair County,6,16,6312,2026,2744
+Illinois,St. Clair County,6,17,5187,1590,2445
+Illinois,St. Clair County,6,18,5164,1341,2793
+Illinois,St. Clair County,7,0,265729,81973,84233
+Illinois,St. Clair County,7,1,16953,4621,4316
+Illinois,St. Clair County,7,2,18161,4902,4673
+Illinois,St. Clair County,7,3,18064,5001,4649
+Illinois,St. Clair County,7,4,17313,4654,4486
+Illinois,St. Clair County,7,5,17756,4916,4526
+Illinois,St. Clair County,7,6,17242,5218,5073
+Illinois,St. Clair County,7,7,17479,5553,5399
+Illinois,St. Clair County,7,8,16663,5345,5245
+Illinois,St. Clair County,7,9,16910,5185,5235
+Illinois,St. Clair County,7,10,17424,5722,5664
+Illinois,St. Clair County,7,11,20003,6906,6888
+Illinois,St. Clair County,7,12,19212,6616,6891
+Illinois,St. Clair County,7,13,15801,5443,5689
+Illinois,St. Clair County,7,14,11891,4179,4336
+Illinois,St. Clair County,7,15,8239,2776,3237
+Illinois,St. Clair County,7,16,6269,2020,2699
+Illinois,St. Clair County,7,17,5102,1550,2407
+Illinois,St. Clair County,7,18,5247,1366,2820
