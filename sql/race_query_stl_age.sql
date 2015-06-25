@@ -1,0 +1,50 @@
+select 
+    year,
+    (CAST(minority_age_1+minority_age_2+minority_age_3+minority_age_4 as float))/(CAST(total_age_1+total_age_2+total_age_3+total_age_4 as float)) as age_under_20,
+    (CAST(minority_age_5+minority_age_6+minority_age_7+minority_age_8 as float))/(CAST(total_age_5+total_age_6+total_age_7+total_age_8 as float)) as age_20_40,
+    (CAST(minority_age_9+minority_age_10+minority_age_11+minority_age_12 as float))/(CAST(total_age_9+total_age_10+total_age_11+total_age_12 as float)) as age_40_60,
+    (CAST(minority_age_13+minority_age_14+minority_age_15+minority_age_16 as float))/(CAST(total_age_13+total_age_14+total_age_15+total_age_16 as float)) as age_60_80,
+    (CAST(minority_age_17+minority_age_18 as float))/(CAST(total_age_17+total_age_18 as float)) as age_over_80
+from (
+select 
+    year,
+    sum(case when age_group == 1 then total end) total_age_1,
+    sum(case when age_group == 1 then total - (white_male+white_female) end) minority_age_1,
+    sum(case when age_group == 2 then total end) total_age_2,
+    sum(case when age_group == 2 then total - (white_male+white_female) end) minority_age_2,
+    sum(case when age_group == 3 then total end) total_age_3,
+    sum(case when age_group == 3 then total - (white_male+white_female) end) minority_age_3,
+    sum(case when age_group == 4 then total end) total_age_4,
+    sum(case when age_group == 4 then total - (white_male+white_female) end) minority_age_4,
+    sum(case when age_group == 5 then total end) total_age_5,
+    sum(case when age_group == 5 then total - (white_male+white_female) end) minority_age_5,
+    sum(case when age_group == 6 then total end) total_age_6,
+    sum(case when age_group == 6 then total - (white_male+white_female) end) minority_age_6,
+    sum(case when age_group == 7 then total end) total_age_7,
+    sum(case when age_group == 7 then total - (white_male+white_female) end) minority_age_7,
+    sum(case when age_group == 8 then total end) total_age_8,
+    sum(case when age_group == 8 then total - (white_male+white_female) end) minority_age_8,
+    sum(case when age_group == 9 then total end) total_age_9,
+    sum(case when age_group == 9 then total - (white_male+white_female) end) minority_age_9,
+    sum(case when age_group == 10 then total end) total_age_10,
+    sum(case when age_group == 10 then total - (white_male+white_female) end) minority_age_10,
+    sum(case when age_group == 11 then total end) total_age_11,
+    sum(case when age_group == 11 then total - (white_male+white_female) end) minority_age_11,
+    sum(case when age_group == 12 then total end) total_age_12,
+    sum(case when age_group == 12 then total - (white_male+white_female) end) minority_age_12,
+    sum(case when age_group == 13 then total end) total_age_13,
+    sum(case when age_group == 13 then total - (white_male+white_female) end) minority_age_13,
+    sum(case when age_group == 14 then total end) total_age_14,
+    sum(case when age_group == 14 then total - (white_male+white_female) end) minority_age_14,
+    sum(case when age_group == 15 then total end) total_age_15,
+    sum(case when age_group == 15 then total - (white_male+white_female) end) minority_age_15,
+    sum(case when age_group == 16 then total end) total_age_16,
+    sum(case when age_group == 16 then total - (white_male+white_female) end) minority_age_16,
+    sum(case when age_group == 17 then total end) total_age_17,
+    sum(case when age_group == 17 then total - (white_male+white_female) end) minority_age_17,
+    sum(case when age_group == 18 then total end) total_age_18,
+    sum(case when age_group == 18 then total - (white_male+white_female) end) minority_age_18
+    from data
+where age_group > 0 AND (year == 1 or year == 7) AND county LIKE 'St. Louis city'
+group by year
+);
